@@ -1,0 +1,6 @@
+- [ ] Change py-24 to py-0 in components/About.tsx
+- [ ] Change py-24 to py-0 in components/Skills.tsx
+- [ ] Change py-24 to py-0 in components/Projects.tsx
+- [ ] Change py-24 to py-0 in components/Education.tsx
+- [ ] Change py-24 to py-0 in components/Contact.tsx
+- [ ] Change py-12 to py-0 in components/Footer.tsx
