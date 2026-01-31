@@ -20,7 +20,7 @@ const Hero: React.FC = () => {
           {/* Image Section */}
           <div className="flex-shrink-0 relative">
             <img
-              src="components/image.png"
+              src="https://github.com/shakthipriyasrinivasan/Shakthi-s-Portfolio/blob/main/components/image.png?raw=true"
               alt="Profile picture of Shakthipriya S D"
               className="w-48 h-48 md:w-64 md:h-64 lg:w-80 lg:h-80 rounded-full border-4 border-violet-500/50 shadow-[0_0_20px_rgba(192,38,211,0.3)]"
             />
